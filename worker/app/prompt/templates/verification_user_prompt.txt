@@ -1,0 +1,1 @@
+Verifica que los valores de entrada se encuentran dentro de los datos de lectura ocr, responde con true or false en un formato JSON, estos son los datos de la lectura ocr: {extracted_data}

@@ -1,0 +1,12 @@
+.env
+env/
+env*
+autogen/
+autogen*
+.image.env/
+*.image.env
+*.image.env*
+*.env
+*.env*
+.main.env
+*.main.env*
