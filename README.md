@@ -60,7 +60,7 @@ worker/
 
 1. Clone the repository:
    ```bash
-   git clone https://esja@dev.azure.com/esja/ex_014/_git/ex_014
+   git clone https://github.com/carlosgutierrezch/gpt-4o-ocr-vision.git
    cd ex_014
    ```
 
